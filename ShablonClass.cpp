@@ -1,4 +1,6 @@
-﻿#include <iostream>
+﻿//github: https://github.com/pluffohman/ShablonClass
+
+#include <iostream>
 #include <vector>
 
 template <typename T>
